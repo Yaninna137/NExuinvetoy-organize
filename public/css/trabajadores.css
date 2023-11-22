@@ -1,0 +1,79 @@
+/* resources/css/empleados.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/black-fonder.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Esto evita que la imagen se desplace con el contenido */
+}
+
+.Cuerpo__Pagina {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* Fondo del contenido */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    opacity: 0.8;
+}
+
+#Encabezado {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.TABLA__DATOS {
+    margin-bottom: 20px;
+}
+
+#empleados-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#empleados-table th, #empleados-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#empleados-table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}

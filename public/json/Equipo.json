@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "Nombre":"Yaninna Álvarez",
+        "Cargo":"Líder del Equipo/Administrador ",
+        "Photo":"https://avatars.githubusercontent.com/u/134446812?v=4",
+        "Tipo_Contribucion":"Es la líder del equipo y desempeña un papel crucial en la organización y coordinación de todos los miembros del equipo. Su responsabilidad principal es asegurarse de que todas las tareas se completen a tiempo y que se cumplan los objetivos del proyecto. Además, Yaninna contribuye activamente al desarrollo y manejo de las funcionalidades de la página, aportando sus conocimientos y experiencia para garantizar un producto de alta calidad."
+    },
+    {
+        "id":2,
+        "Nombre":"Alexis Monsalve",
+        "Cargo":"Diseñador/Administrador de funcionalidades ",
+        "Photo":"https://avatars.githubusercontent.com/u/125103323?v=4",
+        "Tipo_Contribucion":"Es el encargado de la parte visual de la página. Su labor incluye el diseño y la administración de la interfaz gráfica para asegurarse de que la página tenga un aspecto atractivo y fácil de usar. También se encarga del manejo interno de los datos, asegurándose de que la información se presente de manera efectiva y estéticamente agradable."
+    },
+    {
+        "id":3,
+        "Nombre":"Joaquin Cantero",
+        "Cargo":"Diseñador/Administrador de datos ",
+        "Photo":"https://avatars.githubusercontent.com/u/135163607?v=4",
+        "Tipo_Contribucion":"El tiene un papel doble en el equipo. Al igual que Alexis, se encarga de la administración de la interfaz gráfica de la página, asegurando su aspecto y usabilidad. Además, Joaquin contribuye a la generación de algunas funcionalidades, lo que significa que está involucrado en la creación de características interactivas y elementos que mejoran la experiencia del usuario en la página."
+    },
+    {
+        "id":4,
+        "Nombre":"Maximo Orellana",
+        "Cargo":"Diseñador/Administrador de datos ",
+        "Photo":"https://avatars.githubusercontent.com/u/134967507?v=4",
+        "Tipo_Contribucion":"El se enfoca en la gestión de la base de datos de la página. Es responsable de mantener y organizar la información de manera eficiente. Además, Maximo también trabaja en el diseño, contribuyendo a la parte visual de la página. Su papel es crucial para garantizar que la página funcione sin problemas y que los datos estén disponibles cuando se necesiten."
+    }
+]

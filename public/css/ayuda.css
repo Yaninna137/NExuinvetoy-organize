@@ -1,0 +1,51 @@
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para el contenedor principal */
+#container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilo para el encabezado */
+h1 {
+    color: #333;
+}
+
+/* Estilo para los botones de ayuda */
+.help-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.help-button:hover {
+    background-color: #0056b3;
+}
+
+/* Estilo para el contenido de ayuda */
+.help-content {
+    display: none;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilo para el contenido de ayuda visible */
+.help-content.active {
+    display: block;
+}

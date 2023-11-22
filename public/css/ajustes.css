@@ -1,0 +1,90 @@
+*{
+    margin: 25px 60px;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/black-fonder.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Esto evita que la imagen se desplace con el contenido */
+}
+
+.settings{
+    padding-top: 20px;
+}
+#container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    opacity: 0.8;
+}
+h1{
+    margin-top: 0px;
+}
+.hr{
+    color: red;
+    border: 1px solid;
+}
+.info {
+    padding: 20px;
+}
+.info p{
+    font-size: 20px;
+    padding: 5px;
+    margin: 0px auto;
+}
+.info2{
+    text-align: right;
+}
+.info button{
+    background-color: #008CBA;
+    color: white;
+    padding: 8px 12px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    border-radius: 5px;
+}
+.user{
+    text-align: center;
+    padding: 20px;
+}
+.user img{
+    margin: 0;
+    padding: 20px;
+}
+.user button {
+    background-color: #008CBA;
+    color: white;
+    padding: 8px 12px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin: 0px 48px;
+}
+.account{
+    color: #343434 ;
+    padding: 20px;
+    font-size: 15px;
+}
+.account a{
+    color: #FF3625;
+    text-decoration: none;
+}
+.account button{
+    color: red;
+    border: 1px solid red;
+    padding: 5px;
+    margin: 0px 260px;
+}
+.account p{
+    margin-right: 400px;
+    text-align: justify;
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "Condicion":"1. Uso Aceptable: ",
+        "Detalles":"<span id='Item'>a.</span> La plataforma de gestión de inventario de Nexus Inventori está destinada exclusivamente para la administración y seguimiento de inventarios empresariales.<br><span id='Item'>b.</span> Usted se compromete a utilizar nuestros servicios de manera legal y ética, respetando todas las leyes y regulaciones aplicables."
+    },
+    {
+        "Condicion":"2. Registro y Credenciales: ",
+        "Detalles": "<span id='Item'>a.</span> Para acceder a nuestra plataforma, debe completar un proceso de registro y proporcionar información precisa y actualizada. <br><span id='Item'>b.</span> Es su responsabilidad mantener la confidencialidad de sus credenciales de inicio de sesión y notificarnos inmediatamente cualquier uso no autorizado de su cuenta."
+    },
+    {
+        "Condicion":"3. Privacidad: ",
+        "Detalles":"<span id='Item'>a.</span> Su privacidad es importante para nosotros. Consulte nuestra Política de Privacidad para obtener más información sobre cómo manejamos su información personal. "
+    },
+    {
+        "Condicion":"4. Derechos de Propiedad: ",
+        "Detalles":"<span id='Item'>a.</span> Todos los derechos de propiedad intelectual, licenciatarios, incluyendo derechos de autor y marcas registradas, relacionados con la plataforma de gestión de inventario son propiedad de NexusInventori.<br><span id='Item'>b.</span> Usted no tiene derecho a copiar, modificar, distribuir, o reproducir la plataforma sin el permiso por escrito de NexusInventori. "
+    },
+    {
+        "Condicion":"5. Contenido del Usuario: ",
+        "Detalles":"<span id='Item'>a.</span> Usted es el único responsable del contenido que ingrese en la plataforma.<br><span id='Item'>b.</span> Asegúrese de que su contenido no viole derechos de propiedad intelectual de terceros ni contenga información falsa o difamatoria. "
+    },    
+    {
+        "Condicion":"6. Mantenimiento de Datos: ",
+        "Detalles":"<span id='Item'>a.</span> NexusInventori se compromete a tomar medidas razonables para mantener la seguridad y la integridad de los datos almacenados en la plataforma.<br><span id='Item'>b.</span> No somos responsables de la pérdida de datos o la interrupción del servicio debido a eventos fuera de nuestro control. "
+    },    
+    {
+        "Condicion":"7. Cancelación de Cuenta: ",
+        "Detalles":"<span id='Item'>a.</span> Usted puede cancelar su cuenta en cualquier momento siguiendo los procedimientos indicados en la plataforma.<br><span id='Item'>b.</span>. Nos reservamos el derecho de cancelar su cuenta si incumple estos términos y condiciones. "
+    },    {
+        "Condicion":"8. Modificaciones: ",
+        "Detalles":"<span id='Item'>a.</span> Nexus Inventori se reserva el derecho de modificar estos términos y condiciones en cualquier momento. Las modificaciones serán efectivas una vez que se publiquen en la plataforma. "
+    },    
+    {
+        "Condicion":"9. Limitación de Responsabilidad: ",
+        "Detalles":"<span id='Item'>a.</span> Nexus Inventori no será responsable de daños directos, indirectos, incidentales o consecuentes resultantes del uso de nuestra plataforma. "
+    },
+    {
+        "Condicion":"10. Ley Aplicable:  ",
+        "Detalles":"<span id='Item'>a.</span> Estos términos y condiciones se rigen por las leyes de [país] y cualquier disputa se resolverá en los tribunales del mismo. "
+    }
+]

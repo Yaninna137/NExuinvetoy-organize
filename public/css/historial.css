@@ -1,0 +1,92 @@
+/* Estructura.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/black-fonder.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Esto evita que la imagen se desplace con el contenido */
+}
+
+.Cuerpo__Pagina {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    opacity: 0.8;
+}
+
+#Encabezado {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.PANEL__BUTTON {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.Search {
+    display: flex;
+}
+
+#Buscador {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#icon {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#icon:hover {
+    background-color: #45a049;
+}
+
+/* TABLA.css */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.table .tr-shadow:hover {
+    background-color: #f5f5f5;
+}
+
+/* BOTONES_SELECCION.css */
+.BOTONES_SELECCION {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+button:hover {
+    background-color: #45a049;
+}

@@ -1,0 +1,63 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/black-fonder.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Esto evita que la imagen se desplace con el contenido */
+}
+
+.Cuerpo__Pagina {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 20px;
+    opacity: 0.8;
+}
+
+#Encabezado {
+    text-align: center;
+    color: #333;
+}
+
+#categoria-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#categoria-table th,
+#categoria-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+#categoria-table th {
+    background-color: #f2f2f2;
+}
+
+#categoria-table tr:hover {
+    background-color: #f5f5f5;
+}
+
+button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.TABLA__DATOS {
+    overflow-x: auto;
+}
